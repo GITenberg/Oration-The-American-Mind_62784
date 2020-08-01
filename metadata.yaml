@@ -1,16 +1,21 @@
 _repo: Oration-The-American-Mind_62784
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Ernst, C. W.
     gutenberg_agent_id: '52124'
     url: http://www.gutenberg.org/2009/agents/52124
+covers:
+- cover_type: archival
+  image_path: 62784-h/images/cover.jpg
 creator:
   author:
     agent_name: Lyons, Charles W.
     gutenberg_agent_id: '52123'
     url: http://www.gutenberg.org/2009/agents/52123
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62784#Oration-The-American-Mind
 gutenberg_issued: '2020-07-30'
 gutenberg_type: Text
 identifiers:
